@@ -1,0 +1,6 @@
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\G4DataConvert.exe.config
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\G4DataConvert.exe
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\G4DataConvert.pdb
+F:\GitHub\Geant4Data\G4DataConvert\obj\Debug\G4DataConvert.csprojAssemblyReference.cache
+F:\GitHub\Geant4Data\G4DataConvert\obj\Debug\G4DataConvert.exe
+F:\GitHub\Geant4Data\G4DataConvert\obj\Debug\G4DataConvert.pdb

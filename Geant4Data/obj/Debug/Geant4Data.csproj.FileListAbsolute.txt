@@ -11,3 +11,16 @@ C:\Users\takun\Documents\GitHub\Geant4Data\Geant4Data\bin\Debug\ICSharpCode.Shar
 C:\Users\takun\Documents\GitHub\Geant4Data\Geant4Data\obj\Debug\Geant4Data.csproj.CopyComplete
 C:\Users\takun\Documents\GitHub\Geant4Data\Geant4Data\obj\Debug\Geant4Data.exe
 C:\Users\takun\Documents\GitHub\Geant4Data\Geant4Data\obj\Debug\Geant4Data.pdb
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\Geant4Data.exe.config
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\Geant4Data.exe
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\Geant4Data.pdb
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\NPOI.dll
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\NPOI.OOXML.dll
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\NPOI.OpenXml4Net.dll
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\GitHub\Geant4Data\Geant4Data\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\GitHub\Geant4Data\Geant4Data\obj\Debug\Geant4Data.csprojAssemblyReference.cache
+F:\GitHub\Geant4Data\Geant4Data\obj\Debug\Geant4Data.csproj.CopyComplete
+F:\GitHub\Geant4Data\Geant4Data\obj\Debug\Geant4Data.exe
+F:\GitHub\Geant4Data\Geant4Data\obj\Debug\Geant4Data.pdb
