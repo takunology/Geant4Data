@@ -4,3 +4,10 @@ F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\G4DataConvert.pdb
 F:\GitHub\Geant4Data\G4DataConvert\obj\Debug\G4DataConvert.csprojAssemblyReference.cache
 F:\GitHub\Geant4Data\G4DataConvert\obj\Debug\G4DataConvert.exe
 F:\GitHub\Geant4Data\G4DataConvert\obj\Debug\G4DataConvert.pdb
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\NPOI.dll
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\NPOI.OOXML.dll
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\NPOI.OpenXml4Net.dll
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\GitHub\Geant4Data\G4DataConvert\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\GitHub\Geant4Data\G4DataConvert\obj\Debug\G4DataConvert.csproj.CopyComplete

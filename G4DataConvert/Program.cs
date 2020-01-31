@@ -9,16 +9,15 @@ namespace G4DataConvert
 {
     class Program
     {
+        public static string ReadDir = @"C:\Users\takun\Desktop\G4"; //テスト用
+
         static void Main(string[] args)
         {
             Console.WriteLine("読み込みたいデータのあるディレクトリを入力してください.");
-            //string directory = Console.ReadLine();
-            string ReadDir = @"C:\Users\takun\Desktop\G4";
+            //ReadDir = Console.ReadLine();         
             Console.WriteLine("--------------------------------------------------------");
 
             TextToExcel TextToExcel = new TextToExcel(); //テキスト形式からエクセル形式へ変換
-            string ExcelDir = $@"{ReadDir}\EXCEL";
-            Directory.CreateDirectory(ExcelDir); //Excel変換作業用ディレクトリ生成
             TextToExcel.TxtToExcel(ReadDir);
 
             Console.ReadKey();
