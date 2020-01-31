@@ -27,7 +27,7 @@ namespace Geant4Data
             ExcelRead excelRead = new ExcelRead(); //読み込み用インスタンス
             try //メイン処理
             {
-                excelRead.SearchTextFile(dir);
+                excelRead.WriteFile(dir);
 
             }
             catch(Exception e)
